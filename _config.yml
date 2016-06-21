@@ -1,0 +1,41 @@
+# navbar
+menu:
+  Home: /
+  Archives: /archives/
+  Tags: /tags/
+  About: /about/
+
+# site icon
+favicon: /favicon.ico
+
+# comments
+comments:
+  post: true
+  about: true
+
+# Analytics
+## Baidu Analytics
+baidu_analytics:
+## Google Analytics
+google_analytics:
+
+# Comments
+## Duoshuo
+# duoshuo_shortname:
+## Disqus
+disqus_shortname: admln52
+
+# Social links
+social:
+  email: mailto:wangyingjie@52admin.net
+  # stack-overflow:
+  weibo: http://weibo.com/52admin
+  twitter: https://twitter.com/admln52
+  github: https://github.com/52admln
+  # facebook:
+  # zhihu:
+  rss: /atom.xml
+
+# Friends Link
+friends:
+  ahonn: http://www.ahonn.me
