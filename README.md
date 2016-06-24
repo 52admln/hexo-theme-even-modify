@@ -1,11 +1,13 @@
 # hexo-theme-even
 
 ## Modify
-我对主题进行了二次修改,包括配色样式等方面
+我对主题进行了二次修改:
+包括配色,字体等
+
 
 A simple theme for Hexo blog framework
 
-![even](http://7xqvel.com1.z0.glb.clouddn.com/even.png?imageView/3/w/600)
+![even](http://o99llmab0.bkt.clouddn.com/hexo-even-theme-priview.png)
 
 ## Demo
 Check out Even theme in live : [hexo-theme-even demo](https://www.ahonn.me)
